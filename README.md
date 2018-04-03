@@ -11,3 +11,8 @@
 # №1
 ![](https://github.com/Verzhbitskayamaria99/hw6/blob/master/4.png)
 difficult, important, fundamental
+# №2
+![](https://github.com/Verzhbitskayamaria99/hw6/blob/master/Снимок%20экрана%202018-04-03%20в%2015.55.21.png)
+1. Оба глагола могут употребляться со словом Effect
+2. Глагол evaluate может употребляться с такими словами, как progress, impact и т.д.
+3. Глагол estimate может употребляться с такими словами, как value, population, и т.д. 
